@@ -1,2 +1,7 @@
-# BedWars1058-PrivateGames-Documentation
-You can find the documentation <a href="https://mher-zaqaryan.gitbook.io/bedwars1058-private-games/">here</a>
+# BedWars1058 Private Games
+
+### This project is currently used as issue tracker only.
+
+Resource Link: https://polymart.org/resource/bedwars1058-private-games-addon.1620 <br>
+Documentation: https://mher-zaqaryan.gitbook.io/bedwars1058-private-games/ <br>
+Discord: https://discord.gg/HjbFGqX8Qn
