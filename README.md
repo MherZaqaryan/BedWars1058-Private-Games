@@ -4,4 +4,4 @@
 
 Resource Link: https://polymart.org/resource/bedwars1058-private-games-addon.1620 <br>
 Documentation: https://mher-zaqaryan.gitbook.io/bedwars1058-private-games/ <br>
-Discord: https://discord.gg/HjbFGqX8Qn
+Discord: http://discord.mher.club
