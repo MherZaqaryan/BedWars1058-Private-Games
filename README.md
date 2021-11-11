@@ -1,4 +1,4 @@
-# BedWars1058 Private Games
+# BedWars1058 Private Games Addon
 
 ### This project is currently used as issue tracker only.
 
