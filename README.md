@@ -4,5 +4,5 @@
 
 Resource Link: https://polymart.org/resource/1620 <br>
 Documentation: https://mher-zaqaryan.gitbook.io/bedwars1058-private-games/ <br>
-Discord Server: http://discord.mher.club </br>
-Donate: https://paypal.me/AngelicaGalstyan
+Discord Server: https://mher.club/discord </br>
+Donate: https://mher.club/donate
