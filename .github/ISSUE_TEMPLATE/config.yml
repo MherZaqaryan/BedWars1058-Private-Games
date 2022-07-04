@@ -3,3 +3,6 @@ contact_links:
   - name: Discord Server
     url: https://mher.club/discord
     about: Our support Discord, if you are unsure or you have a question please do not hesitate to seek help.
+  - name: Documentation
+    url: https://mher-zaqaryan.gitbook.io/bedwars1058-private-games
+    about: "Please read the documentation before submmiting an issue, you may find your issue's slution in here."
